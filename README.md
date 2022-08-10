@@ -1,4 +1,4 @@
-# Mardown-Previewer_React
+# Markdown-Previewer_React
 > A simple markdown previewer project using React for FreeCodeCamp Certification
 
 ## CDNs
